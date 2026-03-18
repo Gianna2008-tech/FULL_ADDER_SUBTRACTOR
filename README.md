@@ -48,10 +48,14 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+<img width="948" height="515" alt="Screenshot 2026-03-18 151240" src="https://github.com/user-attachments/assets/29fa98ae-942e-4281-ae06-f008837abac1" />
+<img width="945" height="524" alt="Screenshot 2026-03-18 151349" src="https://github.com/user-attachments/assets/4e9655f9-cfd5-4a2d-98cf-61f0acfb3688" />
 
 **Output Timing Waveform**
+<img width="1590" height="839" alt="Screenshot 2026-03-18 151428" src="https://github.com/user-attachments/assets/0eca3c03-8789-401b-8c8b-f42483693cf7" />
 
 **Result:**
+<img width="1620" height="859" alt="Screenshot 2026-03-18 151518" src="https://github.com/user-attachments/assets/b95f8966-43a2-4c40-a58f-2bd1cc60bf80" />
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
