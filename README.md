@@ -27,6 +27,7 @@ Carry = AB + ACin + BCin
 **Figure -1 FULL ADDER**
 
 **Truthtable**
+
 <img width="902" height="434" alt="Screenshot 2026-03-24 215234" src="https://github.com/user-attachments/assets/808211ea-345c-404f-b43d-ac1363b491db" />
 
 
